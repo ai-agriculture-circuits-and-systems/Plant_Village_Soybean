@@ -1,0 +1,120 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 471.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 7102.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 1717313490,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (2781).JPG",
+      "size": 25133,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 7102.JPG",
+      "pvc_filename": "48122b39-1986-4c14-98ff-fe375547a0df___RS_HL 7102.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2948809497,
+      "image_id": 1717313490,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 100,
+      "bbox": [
+        155,
+        232,
+        18,
+        24
+      ]
+    },
+    {
+      "id": 1085368497,
+      "image_id": 1717313490,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 140,
+      "bbox": [
+        177,
+        194,
+        35,
+        36
+      ]
+    },
+    {
+      "id": 2138458497,
+      "image_id": 1717313490,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 903,
+      "bbox": [
+        204,
+        103,
+        52,
+        90
+      ]
+    },
+    {
+      "id": 2778927497,
+      "image_id": 1717313490,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 559,
+      "bbox": [
+        172,
+        12,
+        84,
+        85
+      ]
+    },
+    {
+      "id": 6853529497,
+      "image_id": 1717313490,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 2586,
+      "bbox": [
+        6,
+        0,
+        124,
+        86
+      ]
+    },
+    {
+      "id": 6059212497,
+      "image_id": 1717313490,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 318,
+      "bbox": [
+        130,
+        23,
+        41,
+        48
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}

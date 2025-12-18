@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6649437538,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1166).JPG",
+      "size": 19745,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2320440545,
+      "image_id": 6649437538,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 1008,
+      "bbox": [
+        6,
+        55,
+        66,
+        137
+      ]
+    },
+    {
+      "id": 2912966545,
+      "image_id": 6649437538,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 122,
+      "bbox": [
+        134,
+        0,
+        17,
+        15
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}

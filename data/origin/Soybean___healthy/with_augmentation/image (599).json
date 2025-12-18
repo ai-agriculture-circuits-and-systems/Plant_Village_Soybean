@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5771136191,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (599).JPG",
+      "size": 20394,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1996764197,
+      "image_id": 5771136191,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 521,
+      "bbox": [
+        39,
+        148,
+        25,
+        102
+      ]
+    },
+    {
+      "id": 4897047197,
+      "image_id": 5771136191,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 145,
+      "bbox": [
+        159,
+        158,
+        30,
+        34
+      ]
+    },
+    {
+      "id": 9493057197,
+      "image_id": 5771136191,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 574,
+      "bbox": [
+        190,
+        112,
+        35,
+        56
+      ]
+    },
+    {
+      "id": 9955628197,
+      "image_id": 5771136191,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 224,
+      "bbox": [
+        213,
+        81,
+        22,
+        45
+      ]
+    },
+    {
+      "id": 1961005197,
+      "image_id": 5771136191,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 184,
+      "bbox": [
+        214,
+        57,
+        22,
+        28
+      ]
+    },
+    {
+      "id": 5832449197,
+      "image_id": 5771136191,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 220,
+      "bbox": [
+        176,
+        0,
+        27,
+        41
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}

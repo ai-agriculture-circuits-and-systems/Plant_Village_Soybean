@@ -1,0 +1,81 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 416.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 6459.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 6058118862,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (3718).JPG",
+      "size": 23714,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 6459.JPG",
+      "pvc_filename": "bccdf5f0-6b3f-4bae-b738-d736b3833645___RS_HL 6459.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1842419871,
+      "image_id": 6058118862,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 2641,
+      "bbox": [
+        26,
+        0,
+        210,
+        86
+      ]
+    },
+    {
+      "id": 6699444871,
+      "image_id": 6058118862,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 769,
+      "bbox": [
+        87,
+        17,
+        36,
+        66
+      ]
+    },
+    {
+      "id": 4157832871,
+      "image_id": 6058118862,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 408,
+      "bbox": [
+        125,
+        14,
+        44,
+        46
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}

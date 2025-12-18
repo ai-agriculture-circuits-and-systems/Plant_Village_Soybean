@@ -1,0 +1,81 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 487.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 7291.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 8303826203,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (284).JPG",
+      "size": 17962,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 7291.JPG",
+      "pvc_filename": "2b821696-6604-484f-bf8d-ca247bcbc2df___RS_HL 7291.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7650545210,
+      "image_id": 8303826203,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 3564,
+      "bbox": [
+        43,
+        47,
+        160,
+        199
+      ]
+    },
+    {
+      "id": 8964071210,
+      "image_id": 8303826203,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 313,
+      "bbox": [
+        204,
+        81,
+        25,
+        77
+      ]
+    },
+    {
+      "id": 9134955210,
+      "image_id": 8303826203,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 561,
+      "bbox": [
+        134,
+        26,
+        89,
+        49
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}

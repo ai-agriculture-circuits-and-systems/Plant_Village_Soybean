@@ -1,0 +1,230 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2347903106,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (461).JPG",
+      "size": 23837,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6211226115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 2626,
+      "bbox": [
+        27,
+        120,
+        118,
+        109
+      ]
+    },
+    {
+      "id": 4802094115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 195,
+      "bbox": [
+        99,
+        154,
+        35,
+        27
+      ]
+    },
+    {
+      "id": 3834844115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 135,
+      "bbox": [
+        186,
+        152,
+        26,
+        30
+      ]
+    },
+    {
+      "id": 4094187115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 214,
+      "bbox": [
+        127,
+        129,
+        32,
+        50
+      ]
+    },
+    {
+      "id": 1546049115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 337,
+      "bbox": [
+        194,
+        124,
+        40,
+        42
+      ]
+    },
+    {
+      "id": 3273159115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 112,
+      "bbox": [
+        154,
+        130,
+        32,
+        23
+      ]
+    },
+    {
+      "id": 2478393115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 132,
+      "bbox": [
+        84,
+        118,
+        32,
+        14
+      ]
+    },
+    {
+      "id": 5086155115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 180,
+      "bbox": [
+        123,
+        102,
+        19,
+        29
+      ]
+    },
+    {
+      "id": 3536218115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 316,
+      "bbox": [
+        28,
+        98,
+        44,
+        29
+      ]
+    },
+    {
+      "id": 9491727115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 157,
+      "bbox": [
+        92,
+        103,
+        34,
+        17
+      ]
+    },
+    {
+      "id": 5698901115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 127,
+      "bbox": [
+        137,
+        86,
+        31,
+        23
+      ]
+    },
+    {
+      "id": 5555580115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 769,
+      "bbox": [
+        92,
+        40,
+        40,
+        65
+      ]
+    },
+    {
+      "id": 2809167115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 175,
+      "bbox": [
+        65,
+        67,
+        25,
+        35
+      ]
+    },
+    {
+      "id": 4630521115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 1428,
+      "bbox": [
+        125,
+        12,
+        110,
+        77
+      ]
+    },
+    {
+      "id": 1027027115,
+      "image_id": 2347903106,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 262,
+      "bbox": [
+        100,
+        6,
+        24,
+        33
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}
