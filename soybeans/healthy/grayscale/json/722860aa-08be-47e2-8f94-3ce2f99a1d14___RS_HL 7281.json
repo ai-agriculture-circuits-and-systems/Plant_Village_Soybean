@@ -1,0 +1,107 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 486.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 7281.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 5786025874,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (2968).JPG",
+      "size": 19821,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 7281.JPG",
+      "pvc_filename": "722860aa-08be-47e2-8f94-3ce2f99a1d14___RS_HL 7281.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1809777883,
+      "image_id": 5786025874,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 181,
+      "bbox": [
+        200,
+        75,
+        26,
+        21
+      ]
+    },
+    {
+      "id": 1311773883,
+      "image_id": 5786025874,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 162,
+      "bbox": [
+        199,
+        45,
+        24,
+        33
+      ]
+    },
+    {
+      "id": 3099446883,
+      "image_id": 5786025874,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 175,
+      "bbox": [
+        101,
+        10,
+        20,
+        26
+      ]
+    },
+    {
+      "id": 5546763883,
+      "image_id": 5786025874,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 2097,
+      "bbox": [
+        0,
+        0,
+        142,
+        28
+      ]
+    },
+    {
+      "id": 8737967883,
+      "image_id": 5786025874,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 118,
+      "bbox": [
+        121,
+        12,
+        44,
+        10
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}

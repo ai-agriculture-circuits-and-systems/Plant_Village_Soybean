@@ -1,0 +1,159 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 464.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 7026.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 4112993713,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (119).JPG",
+      "size": 25805,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 7026.JPG",
+      "pvc_filename": "0fd172cc-3d9e-4802-9e63-1b3dc073e84b___RS_HL 7026.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6541621721,
+      "image_id": 4112993713,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 1019,
+      "bbox": [
+        54,
+        162,
+        116,
+        38
+      ]
+    },
+    {
+      "id": 3757424721,
+      "image_id": 4112993713,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 280,
+      "bbox": [
+        28,
+        127,
+        35,
+        26
+      ]
+    },
+    {
+      "id": 8516903721,
+      "image_id": 4112993713,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 500,
+      "bbox": [
+        50,
+        105,
+        69,
+        46
+      ]
+    },
+    {
+      "id": 5327297721,
+      "image_id": 4112993713,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 203,
+      "bbox": [
+        125,
+        76,
+        21,
+        32
+      ]
+    },
+    {
+      "id": 2286608721,
+      "image_id": 4112993713,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 2634,
+      "bbox": [
+        0,
+        0,
+        109,
+        87
+      ]
+    },
+    {
+      "id": 3384826721,
+      "image_id": 4112993713,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 510,
+      "bbox": [
+        128,
+        13,
+        27,
+        59
+      ]
+    },
+    {
+      "id": 7941137721,
+      "image_id": 4112993713,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 385,
+      "bbox": [
+        171,
+        18,
+        45,
+        34
+      ]
+    },
+    {
+      "id": 9246451721,
+      "image_id": 4112993713,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 107,
+      "bbox": [
+        99,
+        13,
+        20,
+        26
+      ]
+    },
+    {
+      "id": 3709149721,
+      "image_id": 4112993713,
+      "category_id": 2000000024,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        140,
+        3,
+        25,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}
