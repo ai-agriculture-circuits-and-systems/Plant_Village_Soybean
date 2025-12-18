@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6333514389,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (3626).JPG",
+      "size": 15823,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5886114400,
+      "image_id": 6333514389,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 212,
+      "bbox": [
+        115,
+        230,
+        22,
+        18
+      ]
+    },
+    {
+      "id": 7748455400,
+      "image_id": 6333514389,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 324,
+      "bbox": [
+        206,
+        18,
+        29,
+        63
+      ]
+    },
+    {
+      "id": 4803146400,
+      "image_id": 6333514389,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 617,
+      "bbox": [
+        170,
+        0,
+        41,
+        71
+      ]
+    },
+    {
+      "id": 9914980400,
+      "image_id": 6333514389,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 877,
+      "bbox": [
+        14,
+        0,
+        139,
+        63
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}

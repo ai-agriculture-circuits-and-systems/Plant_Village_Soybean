@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3801511345,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (2969).JPG",
+      "size": 22865,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1391249353,
+      "image_id": 3801511345,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 894,
+      "bbox": [
+        164,
+        0,
+        92,
+        147
+      ]
+    },
+    {
+      "id": 6257188353,
+      "image_id": 3801511345,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 106,
+      "bbox": [
+        149,
+        30,
+        19,
+        23
+      ]
+    },
+    {
+      "id": 3075909353,
+      "image_id": 3801511345,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 218,
+      "bbox": [
+        80,
+        0,
+        25,
+        38
+      ]
+    },
+    {
+      "id": 2555183353,
+      "image_id": 3801511345,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 110,
+      "bbox": [
+        67,
+        22,
+        30,
+        13
+      ]
+    },
+    {
+      "id": 3120511353,
+      "image_id": 3801511345,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 123,
+      "bbox": [
+        110,
+        9,
+        32,
+        22
+      ]
+    },
+    {
+      "id": 4033533353,
+      "image_id": 3801511345,
+      "category_id": 1000000024,
+      "segmentation": [],
+      "area": 165,
+      "bbox": [
+        57,
+        0,
+        26,
+        22
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000024,
+      "name": "healthy",
+      "supercategory": "Soybean"
+    }
+  ]
+}
